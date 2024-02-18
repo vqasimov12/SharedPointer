@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\SharedPointer\New folder (2)\Project1\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LINK : C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\SharedPointer\New folder (2)\x64\Debug\Project1.exe not found or not built by the last incremental link; performing full link
+  Project1.vcxproj -> C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\New folder\SharedPointer\New folder (2)\x64\Debug\Project1.exe
